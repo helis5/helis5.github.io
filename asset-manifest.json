@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c86e5c5.css",
+    "main.js": "/static/js/main.b58505cf.js",
+    "static/js/787.64f3cf03.chunk.js": "/static/js/787.64f3cf03.chunk.js",
+    "static/media/sushiset.jpg": "/static/media/sushiset.090326fedc1213714aea.jpg",
+    "static/media/main-banner.jpg": "/static/media/main-banner.f5f0b9f16b63ceeee873.jpg",
+    "static/media/sushimaki.jpg": "/static/media/sushimaki.943c199048caef47b96e.jpg",
+    "static/media/sets.jpg": "/static/media/sets.fed8fac40643883f42a5.jpg",
+    "static/media/sups.jpg": "/static/media/sups.79d44be391f414f780d6.jpg",
+    "static/media/thai-food.jpg": "/static/media/thai-food.60fe3df8bfec11bb3919.jpg",
+    "static/media/sushi.jpg": "/static/media/sushi.0e1ecb8dea8b6547786f.jpg",
+    "static/media/rolls.jpg": "/static/media/rolls.7d3e69d3947657830b92.jpg",
+    "static/media/nigiri.jpg": "/static/media/nigiri.7838b4b4627161642997.jpg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.8ba028168d58f4884abd7419d176e96b.svg",
+    "static/media/phone.svg": "/static/media/phone.07f1eebf02d25671eb8cb7a59b234529.svg",
+    "static/media/mail.svg": "/static/media/mail.ebf4989a0b52617e549a0b977867d85c.svg",
+    "static/media/logo.png": "/static/media/logo.a8f6850e306b010f67ec.png",
+    "static/media/place.svg": "/static/media/place.aff50544d4ac4476d6fc78464ee651c4.svg",
+    "static/media/search.svg": "/static/media/search.4c80746090aa031d2b94f73ef14c3446.svg",
+    "static/media/viber.svg": "/static/media/viber.5f165211f8fa19d12c71a596d53716e2.svg",
+    "static/media/instagram.svg": "/static/media/instagram.8fd108ce8657c83c500f1f7b5a627220.svg",
+    "static/media/facebook.svg": "/static/media/facebook.0bb12c2f12b3ebd9570f725e03bcb9e5.svg",
+    "index.html": "/index.html",
+    "main.9c86e5c5.css.map": "/static/css/main.9c86e5c5.css.map",
+    "main.b58505cf.js.map": "/static/js/main.b58505cf.js.map",
+    "787.64f3cf03.chunk.js.map": "/static/js/787.64f3cf03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c86e5c5.css",
+    "static/js/main.b58505cf.js"
+  ]
+}
